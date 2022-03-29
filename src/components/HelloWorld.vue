@@ -22,13 +22,14 @@
           />qazwsx147866@gmail.com
         </p>
       </div>
-      <div class="picture">
+      
         <img
-          src="https://ae01.alicdn.com/kf/Hcbe4562541f74a168db9bf0e9e6a9cfbB.jpg"
+          src="../assets/4A790162-2.jpg"
           alt=""
-          class=""
+          class="mt-5"
+          style="width:120px;height:150px;border:1px solid rgb(215, 215, 216)"
         />
-      </div>
+      
     </div>
     <hr class="hr" />
     <div class="summary">
@@ -132,9 +133,10 @@
           </div>
           <div class="picture">
             <img
-              src="https://ae01.alicdn.com/kf/Hcbe4562541f74a168db9bf0e9e6a9cfbB.jpg"
+              src="../assets/monolock.png"
               alt=""
-              class=""
+              class="pricture"
+              
             />
           </div>
         </div>
@@ -146,13 +148,13 @@
               隨時知道現在的溫溼度如何，我負責的部分是mqtt broker的架設、python flask的api製作，包含資料庫連線、表格製作、新增、搜尋等功能。
             </p>
           </div>
-          <div class="picture ">
+          
             <img
-              src="https://ae01.alicdn.com/kf/Hcbe4562541f74a168db9bf0e9e6a9cfbB.jpg"
+              src="../assets/1028905.jpg"
               alt=""
-              class=""
+              class="picture"
             />
-          </div>
+          
         </div>
       </div>
     </div>
@@ -263,6 +265,7 @@ div #resume {
 }
 .projectcontent::before{
   content:"";
-  @apply rounded absolute -left-1 mt-1 w-1 sm:h-4/5 md:h-4/5 xl:h-3/5 2xl:h-3/5 lg:h-3/5 z-10 border-0 bg-cyan-300;
+  left: -6.5px;
+  @apply rounded absolute mt-1 w-1 sm:h-4/5 md:h-4/5 xl:h-3/5 2xl:h-3/5 lg:h-3/5 z-10 border-0 bg-cyan-300;
 }
 </style>
