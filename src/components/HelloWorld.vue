@@ -10,10 +10,12 @@
           />0963808310
         </p>
         <p class="content">
+          <a href="https://github.com/bohan1109">
           <img
             class="img"
             src="https://www.svgrepo.com/show/341847/github.svg"
-          /><a href="https://github.com/bohan1109">bohan1109</a>
+            href="https://github.com/bohan1109"
+          />bohan1109</a>
         </p>
         <p class="content">
           <img
@@ -53,14 +55,15 @@
       </div>
       <p class="content">
         在大四下時，到創科資訊股份有限公司培訓進行培訓，在這邊學習許多技能，從設計、前端、後端、測試、部屬都有學到，對專案的流程及執行有了更進一步的了解，
-        並且在實習時有許多實作機會，可以讓我們進行團隊專案的製作，在團隊專案製作中，除了學到許多沒用過的技術，像是react.js、git、laravel、虛擬環境等等，還學到了與團隊成員溝通的技巧，
-        因為與不同的人分組合作，有同樣為資管系的台中科技大學的幾位、逢甲大學資工系的、雲科大資管系還有嘉義大學設計系的同學，養成了與不同的人合作時的溝通能力。
+        在實習時有許多實作機會，可以讓我們進行團隊專案的製作，在團隊專案製作中，除了學到許多沒用過的技術，像是Laravel、React、Git、虛擬環境等等，
+        還學到了與團隊成員溝通的技巧，因為與不同的人分組合作，有同樣為資管系的台中科技大學的幾位、逢甲大學資工系的、雲科大資管系還有嘉義大學設計系的同學，
+        養成了與不同的人合作時的溝通能力。
       </p>
     </div>
 
     <hr class="hr" />
     <div class="skill">
-      <p class="title">專業技能 Skills & Certificates</p>
+      <p class="title">專業技能 Skills</p>
       <div class="skillgird">
         <div class="skilldiv">
           <img
@@ -119,6 +122,27 @@
           <li>Github</li>
         </div>
       </div>
+    </div>
+    <hr class="hr" />
+    <div class="Certificates">
+      <p class="title">證照 Certificates</p>
+      
+        <div class="Cergrid grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-4 p-5 w-full">
+        <li>電腦軟體應用丙級</li>
+        <li>電腦軟體應用乙級</li>
+        <li>會計事務-資訊丙級</li>
+        <li>TQC電子商業概論專業級</li>
+        <li>企業電子化助理規畫師合格證書</li>
+        <li>TQC網頁編輯製作</li>
+        <li>TQC影像編輯製作</li>
+        <li>企業電子化人才能力鑑定單科合格證書</li>
+        <li>Planner Of Enterprise Resource Planning</li>
+      </div>
+
+      
+
+      
+
     </div>
     <hr class="hr" />
     <div class="project">
@@ -245,6 +269,9 @@ div #resume {
 }
 .skilldiv {
   @apply w-full m-8;
+}
+.cergrid{
+  
 }
 .skilltitle {
   @apply text-lg font-bold;
