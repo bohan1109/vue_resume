@@ -33,7 +33,7 @@
     </div>
     <hr class="hr" />
     <div class="summary">
-      <p class="title">簡歷 summary</p>
+      <p class="title">簡歷 Summary</p>
       <p class="content">
         就讀於南台科技大學資訊管理系，目前在創科資訊股份有限公司培訓，培訓時常接觸到共同開發，以及技術分享，因此在培訓中我非常享受團隊互相合作、
         共同前進的感覺，並且可以在分享會中學到每個人分享的內容，培訓內容也非常廣，因此工作並不只侷限在單一的領域中，可以吸收更多不一樣的經驗，
@@ -53,8 +53,8 @@
       </div>
       <p class="content">
         在大四下時，到創科資訊股份有限公司培訓進行培訓，在這邊學習許多技能，從設計、前端、後端、測試、部屬都有學到，對專案的流程及執行有了更進一步的了解，
-        並且在實習時有許多實作機會，可以讓我們進行團隊專案的製作，在團隊專案製作中，除了學到許多沒用過的技術以外，還學到了與團隊成員溝通的技巧，
-        因為與不同的人分組合作，養成了與不同的人合作時的溝通能力。
+        並且在實習時有許多實作機會，可以讓我們進行團隊專案的製作，在團隊專案製作中，除了學到許多沒用過的技術，像是react.js、git、laravel、虛擬環境等等，還學到了與團隊成員溝通的技巧，
+        因為與不同的人分組合作，有同樣為資管系的台中科技大學的幾位、逢甲大學資工系的、雲科大資管系還有嘉義大學設計系的同學，養成了與不同的人合作時的溝通能力。
       </p>
     </div>
 
@@ -67,54 +67,56 @@
             class="img"
             src="https://www.svgrepo.com/show/349402/html5.svg"
           />
-          <p class="skilltitle">html5</p>
+          <p class="skilltitle">Html5</p>
           <hr />
-          <li>html</li>
-          <li>css</li>
+          <li>Html</li>
+          <li>Css</li>
         </div>
         <div class="skilldiv">
           <img
             class="img"
             src="https://www.svgrepo.com/show/349419/javascript.svg"
           />
-          <p class="skilltitle">javascript</p>
+          <p class="skilltitle">Javascript</p>
           <hr />
-          <li>javascript</li>
+          <li>Javascript</li>
           <li>Vue.js</li>
+          <li>Jquery</li>
+          <li>Ajax</li>
         </div>
         <div class="skilldiv">
           <img
             class="img"
             src="https://www.svgrepo.com/show/374016/python.svg"
           />
-          <p class="skilltitle">python</p>
+          <p class="skilltitle">Python</p>
           <hr />
-          <li>python</li>
-          <li>flask</li>
+          <li>Python</li>
+          <li>Flask</li>
         </div>
         <div class="skilldiv">
           <img class="img" src="https://www.svgrepo.com/show/354180/php.svg" />
-          <p class="skilltitle">php</p>
+          <p class="skilltitle">Php</p>
           <hr />
-          <li>php</li>
-          <li>laravel</li>
+          <li>Php</li>
+          <li>Laravel</li>
         </div>
         <div class="skilldiv">
           <img
             class="img"
             src="https://www.svgrepo.com/show/42243/database.svg"
           />
-          <p class="skilltitle">database</p>
+          <p class="skilltitle">Database</p>
           <hr />
-          <li>mysql</li>
-          <li>pgsql</li>
+          <li>Mysql</li>
+          <li>Postgresql</li>
         </div>
         <div class="skilldiv">
           <img class="img" src="https://www.svgrepo.com/show/373623/git.svg" />
-          <p class="skilltitle">git</p>
+          <p class="skilltitle">Git</p>
           <hr />
-          <li>git</li>
-          <li>github</li>
+          <li>Git</li>
+          <li>Github</li>
         </div>
       </div>
     </div>
