@@ -48,7 +48,7 @@
           <p class="content_work">創科資訊股份有限公司培訓</p>
         </div>
         <div class="">
-          <p class="content_time">2022/02/14-now</p>
+          <p class="content_time">2022/02-now</p>
         </div>
       </div>
       <p class="content">
@@ -168,7 +168,7 @@
           <p class="content_work">南台科技大學</p>
         </div>
         <div class="">
-          <p class="content_time">2018/09-now</p>
+          <p class="content_time">2018/09-2022/06</p>
         </div>
       </div>
       <p class="content">資訊管理系</p>
@@ -262,12 +262,12 @@ div #resume {
   content:"";
   height: 1.5rem;
   width: 1.5rem;
-  @apply rounded-full absolute -left-4 mt-1 z-10 border-0 bg-cyan-300;
+  @apply rounded-full absolute -left-4 mt-1 z-10 border-0 bg-cyan-100;
 
 }
 .projectcontent::before{
   content:"";
   left: -6.5px;
-  @apply rounded absolute mt-1 w-1 sm:h-4/5 md:h-4/5 xl:h-3/5 2xl:h-3/5 lg:h-3/5 z-10 border-0 bg-cyan-300;
+  @apply rounded absolute mt-1 w-1 sm:h-4/5 md:h-4/5 xl:h-3/5 2xl:h-3/5 lg:h-3/5 z-10 border-0 bg-cyan-100;
 }
 </style>
