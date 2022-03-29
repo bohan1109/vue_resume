@@ -1,5 +1,4 @@
 <template>
-
   <div id="resume">
     <div class="basic">
       <div class="left">
