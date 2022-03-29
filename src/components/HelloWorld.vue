@@ -113,6 +113,7 @@
           <hr />
           <li>Mysql</li>
           <li>Postgresql</li>
+          <li>Sql Server</li>
         </div>
         <div class="skilldiv">
           <img class="img" src="https://www.svgrepo.com/show/373623/git.svg" />
@@ -265,14 +266,12 @@ div #resume {
   @apply mx-7 mt-3 float-right;
 }
 .skillgird {
-  @apply grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 p-5 w-full;
+  @apply grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 p-4 w-full;
 }
 .skilldiv {
   @apply w-full m-8;
 }
-.cergrid{
-  
-}
+
 .skilltitle {
   @apply text-lg font-bold;
 }
