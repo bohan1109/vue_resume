@@ -169,7 +169,7 @@
             </p>
           </div>
 
-          <img src="../assets/1028905.jpg" alt="" class="picture" />
+          <img src="../assets/raspberry.png" alt="" class="picture" />
         </div>
       </div>
     </div>
@@ -272,7 +272,8 @@ div #resume {
   @apply w-8/12 relative flex-col break-all;
 }
 .picture {
-  @apply w-40 h-40 pt-9 items-center;
+  
+  @apply w-40 h-40 pt-3 items-center;
 }
 .projectname::before {
   content: "";
