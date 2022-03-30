@@ -151,7 +151,7 @@
           <div class="left">
             <p class="projectname">Monospace鎖櫃系統</p>
             <p class="projectcontent">
-              公司新進鎖櫃，為了決定鎖櫃使用者，鎖櫃使用者需要輸入志願並抽籤，因此我們製作了鎖櫃系統，此系統前端是使用了react.js後端使用了laravel，
+              公司新進鎖櫃，為了決定鎖櫃使用者，鎖櫃使用者需要輸入志願並抽籤，因此我們製作了鎖櫃系統，此系統前端使用了react.js後端使用了laravel，
               我負責的部分是後端api製作、前後端串接、heroku架設的部分。
             </p>
           </div>
