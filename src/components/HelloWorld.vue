@@ -191,7 +191,7 @@
       <p class="title">語言能力 Language</p>
       <p class="content">中文(母語)<br />英文(初學)</p>
     </div>
-  </div>
+  </div>  
 </template>
 
 <script>
