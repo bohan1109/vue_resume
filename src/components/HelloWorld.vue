@@ -272,7 +272,7 @@ div #resume {
   @apply w-8/12 relative flex-col break-all;
 }
 .picture {  
-  @apply w-40 h-40 mt-5 items-center;
+  @apply w-36 h-36 mt-5 items-center;
 }
 .projectname::before {
   content: "";
