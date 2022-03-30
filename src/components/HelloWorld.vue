@@ -271,9 +271,8 @@ div #resume {
 .left {
   @apply w-8/12 relative flex-col break-all;
 }
-.picture {
-  
-  @apply w-40 h-40 pt-3 items-center;
+.picture {  
+  @apply w-40 h-40 mt-5 items-center;
 }
 .projectname::before {
   content: "";
